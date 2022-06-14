@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "minecraftreworked",
   "version": "${version}",
 
-  "name": "Example Mod",
+  "name": "Minecraft Reworked",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
-    "Me!"
+    "Joppe Bijlsma"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
@@ -19,11 +19,11 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "com.joppebijlsma.minecraftreworked.MinecraftReworked"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "minecraftreworked.mixins.json"
   ],
 
   "depends": {

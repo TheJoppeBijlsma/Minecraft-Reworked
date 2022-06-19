@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "minecraftreworked:block/sculk_wall_torch"
+    },
+    "facing=north": {
+      "model": "minecraftreworked:block/sculk_wall_torch",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "minecraftreworked:block/sculk_wall_torch",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "minecraftreworked:block/sculk_wall_torch",
+      "y": 180
+    }
+  }
+}

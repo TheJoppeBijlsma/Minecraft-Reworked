@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_torch",
+  "textures": {
+    "torch": "minecraftreworked:block/sculk_torch"
+  }
+}

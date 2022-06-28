@@ -14,11 +14,13 @@
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
+      "com.joppebijlsma.minecraftreworked.MinecraftReworked"
+    ],
+    "terrablender": [
       "com.joppebijlsma.minecraftreworked.MinecraftReworked"
     ]
   },
